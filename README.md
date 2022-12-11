@@ -1,7 +1,5 @@
 # 원티드 프리온보딩 4차 과제 - admin 페이지 만들기
 
-## 🚀🚀 [배포](https://wanted-group-4-snplab.vercel.app/)
-
 <br />
 
 ## 1. 소개
@@ -21,7 +19,7 @@
 | **User 페이지** | [서소희](https://github.com/greenish0902) | user 페이지 유효성 검사, 입력 폼 정보 저장 |  |
 | **User 페이지** | [성열하](https://github.com/Hotsumm) | user 페이지 UI 구현, 거주지역 선택 모달, 개인정보 처리방침 페이지 |  |
 | **Admin 페이지** | [이미림](https://github.com/mrlee323) | admin 페이지 레이아웃, 검색 input 필터링, 엑셀 다운로드 | figma를 이용한 목업 디자인, 모바일/앱 기본 레이아웃 구현 |
-| **Admin 페이지** | [이가람](https://github.com/devmagrfs) | admin 페이지 테이블 레이아웃 및 리스트 구현 | vercel 배포 |
+| **Admin 페이지** | [이가람](https://github.com/devmagrfs) | admin 페이지 테이블 레이아웃 및 리스트 구현 | vercel 배포 (현재 서버 내림) |
 
 <br />
 
